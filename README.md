@@ -1,13 +1,9 @@
 # win-3ds
  
  Img download
- Win 95 img
-https://drive.google.com/file/d/0BwvpFafuOtWVNG8xSkhsd0tZUzg/view
-Win xp unstable
-https://drive.google.com/uc?id=0BwOfbMzsiBVdcm9EY2RaNzZZVnc&export=download
-Win98
- http://icutit.ca/N5J0
-
+ Win 
+ 95 img http://www.mediafire.com/file/763teqrm784exe2/W95.IMG
+ Fixed 
 
  
  Releases https://github.com/THEGUY3ds/win43ds/releases
