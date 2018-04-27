@@ -8,3 +8,4 @@
  
  Releases https://github.com/THEGUY3ds/win43ds/releases
  
+FOR HELP VIST : https://discord.gg/ZPzm33t
